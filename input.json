@@ -1,0 +1,6 @@
+{
+  "initial_key_length": 10000,
+  "eavesdropping_rate": 0.12,
+  "error_estimation_sampling_rate": 0.2,
+  "error_reconciliation_efficiency": 1.2
+}
